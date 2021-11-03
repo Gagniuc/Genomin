@@ -4,6 +4,11 @@ Genomin, large-scale genomic analysis in VB6 (DNA sequence analysis). It reads (
 
 For very big files, goto: https://ftp.ncbi.nlm.nih.gov/genomes/refseq/
 
+https://www.ncbi.nlm.nih.gov/genome?term=human&cmd=DetailsSearch
+
+https://www.ncbi.nlm.nih.gov/assembly/GCF_000001405.26/
+
+
 here you will find the genomes of many species.
 
 Files compatible with Genomin have the extension ".fna" or ".fa" or ".fasta" or ".fas"
