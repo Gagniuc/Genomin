@@ -10,9 +10,6 @@ or
 
 https://www.ncbi.nlm.nih.gov/assembly/GCF_000001405.26/
 
-
-here you will find the genomes of many species.
-
-Files compatible with Genomin have the extension ".fna" or ".fa" or ".fasta" or ".fas"
+Note: Files compatible with Genomin have the extension ".fna" or ".fa" or ".fasta" or ".fas".
 
 ![screenshot](https://github.com/Gagniuc/Genomin/blob/main/img/Genomin%201.PNG)
