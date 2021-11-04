@@ -16,4 +16,4 @@ Note: Files compatible with Genomin show the following extensions: ".fna" or ".f
 
 # References
 
-<i>Paul Gagniuc et al. Genomin: a software framework for reading genomic signals. Proc. Rom. Acad., Series B, 13(1):53–56, 2011.</i>
+<i>Paul Gagniuc et al. Genomin: a software framework for reading genomic signals. Proc. Rom. Acad., Series B, 13(1):53–62, 2011.</i>
