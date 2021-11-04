@@ -13,3 +13,7 @@ https://www.ncbi.nlm.nih.gov/assembly/GCF_000001405.26/
 Note: Files compatible with Genomin show the following extensions: ".fna" or ".fa" or ".fasta" or ".fas".
 
 ![screenshot](https://github.com/Gagniuc/Genomin/blob/main/img/Genomin%201.PNG)
+
+# References
+
+Paul Gagniuc et al. Genomin: a software framework for reading genomic signals. Proc. Rom. Acad., Series B, 13(1):53–56, 2011. 
