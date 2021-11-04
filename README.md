@@ -1,5 +1,5 @@
 # Genomin
-Genomin, large-scale genomic analysis in VB6 (DNA sequence analysis). It reads (uses buffers) and processes large FASTA files (over 8Gb), which contain DNA sequences. The screenshot shows the analysis of a 180MB file (representing the chromosome 5 from Homo Sapiens). Some knowledge of genetics might be necessary for the use of the program.
+Genomin is an implementation for large-scale genomic analysis. It is made in Visual Basic 6.0 (VB6). It uses the seek method to generate buffers from large FASTA files (over 8 Gb). The screenshot shows the analysis of a ~ 220 MB file (representing chromosome 1 from Homo Sapiens).
 
 
 For very big files, goto: https://ftp.ncbi.nlm.nih.gov/genomes/refseq/
