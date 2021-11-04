@@ -6,6 +6,8 @@ For very big files, goto:
 
 https://www.ncbi.nlm.nih.gov/genome?term=human&cmd=DetailsSearch
 
+or
+
 https://www.ncbi.nlm.nih.gov/assembly/GCF_000001405.26/
 
 
