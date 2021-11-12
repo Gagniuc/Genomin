@@ -10,7 +10,7 @@ or
 
 https://www.ncbi.nlm.nih.gov/assembly/GCF_000001405.26/
 
-Note: Files compatible with Genomin show the following extensions: ".fna" or ".fa" or ".fasta" or ".fas".
+Note: Files compatible with Genomin show the following extensions: <kbd>.fna</kbd> or <kbd>.fa</kbd> or <kbd>.fasta</kbd> or <kbd>.fas</kbd>.
 
 ![screenshot](https://github.com/Gagniuc/Genomin/blob/main/img/Genomin%201.PNG)
 
