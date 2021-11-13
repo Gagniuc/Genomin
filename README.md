@@ -1,5 +1,5 @@
 # :dna: Genomin
-<kbd>Genomin</kbd> is an implementation for large-scale genomic analysis. It is made in <kbd>Visual Basic 6.0 (VB6)</kbd>. It uses the seek method to generate buffers from large FASTA files (over 8 Gb). The screenshot shows the analysis of a ~ 250 MB FASTA file (representing chromosome 1 from Homo Sapiens).
+<kbd>Genomin</kbd> is an implementation for large-scale genomic analysis. It is made in <kbd>Visual Basic 6.0 (VB6)</kbd>. It uses the <kbd>seek</kbd> method to generate buffers from large FASTA files (over 8 Gb). The screenshot shows the analysis of a ~ 250 MB FASTA file (representing chromosome 1 from Homo Sapiens).
 
 
 For big FASTA files, goto:
