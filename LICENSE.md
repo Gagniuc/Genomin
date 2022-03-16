@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2022 Dr. Paul A. Gagniuc
+Copyright (c) 2009 Dr. Paul A. Gagniuc
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
